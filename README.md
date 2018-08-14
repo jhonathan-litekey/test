@@ -1,7 +1,7 @@
 # Repository Service
 
 ---
-## Getting Started
+### Getting Started
 
 To start the project locally use:
 
@@ -50,4 +50,4 @@ The project contains unit test and blah
 
  - Java 1.8 
  - Spring security
- - 
+
