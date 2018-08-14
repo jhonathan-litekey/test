@@ -1,22 +1,28 @@
 # Repository Service
 
 ---
-### Getting Started
+## Getting Started
 
 To start the project locally use:
 
- - gradle bootRun
+``` 
+gradle bootRun
+```
 
+### Software
 
-#### Data
+ - npm 6.3
+ - ionic 8.3 
+ - cordova 3.3
+ - gradle 1.9 
+
+### Data
 
 To start the project include the city catalog on the database. You can find it on http://bla
 
-You must create a folder on the 
-
 
 ---
-### Depends
+## Depends
 
  - Mongo db repository
  - Mail-service
@@ -25,7 +31,7 @@ You must create a folder on the
 
 
 ---
-### Variables
+## Variables
 
  - MAIL_USER
  - MAIL_PASSWORD
@@ -34,13 +40,13 @@ You must create a folder on the
 
 
 ---
-### Test
+## Test
 
 The project contains unit test and blah
 
 
 ---
-### Technology
+## Technology
 
  - Java 1.8 
  - Spring security
