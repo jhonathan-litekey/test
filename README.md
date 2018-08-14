@@ -1,6 +1,12 @@
 # Repository Service
 
 ---
+### Technology
+
+ - Java 1.8 
+ - Spring security
+
+---
 ### Getting Started
 
 To start the project locally use:
@@ -22,7 +28,7 @@ To start the project include the city catalog on the database. You can find it o
 
 
 ---
-## Depends
+### Depends
 
  - Mongo db repository
  - Mail-service
@@ -31,7 +37,7 @@ To start the project include the city catalog on the database. You can find it o
 
 
 ---
-## Variables
+### Variables
 
  - MAIL_USER
  - MAIL_PASSWORD
@@ -40,14 +46,7 @@ To start the project include the city catalog on the database. You can find it o
 
 
 ---
-## Test
+### Test
 
 The project contains unit test and blah
-
-
----
-## Technology
-
- - Java 1.8 
- - Spring security
 
