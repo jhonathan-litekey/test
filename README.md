@@ -1,12 +1,6 @@
 # Repository Service
 
 ---
-### Technology
-
- - Java 1.8 
- - Spring security
-
----
 ### Getting Started
 
 To start the project locally use:
@@ -26,6 +20,11 @@ gradle bootRun
 
 To start the project include the city catalog on the database. You can find it on http://bla
 
+---
+### Technology
+
+ - Java 1.8 
+ - Spring security
 
 ---
 ### Depends
